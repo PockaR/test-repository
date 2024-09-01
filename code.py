@@ -1,4 +1,4 @@
-name = " Edwin Joel"
+name = "Edwin Joel"
 lastname = "Sanchez"
 
 saludo = "Hola " + name + " " + lastname + " ¿Cómo estás?" + ". Bienvenido."
